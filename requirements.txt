@@ -1,0 +1,11 @@
+python-dotenv
+pypdf
+pymupdf
+tqdm
+pymongo
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
